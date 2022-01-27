@@ -8,3 +8,4 @@ Name, Year, Major
 * Howard Francis, Faculty, Math/Computer Science
 Cody Morehead, Junior, Computer Science
 Rachel Coleman, Senior, Computer Science
+Benji Hall, Senior, Computer Science 

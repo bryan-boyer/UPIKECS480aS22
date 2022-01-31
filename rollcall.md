@@ -9,3 +9,4 @@ Name, Year, Major
 * Cody Morehead, Junior, Computer Science
 * Rachel Coleman, Senior, Computer Science
 * Benji Hall, Senior, Computer Science 
+* Hunter Whalen, Senior, Computer Science
